@@ -1,0 +1,16 @@
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie2-Tabliczka-mnozenia\zadanie2-Tabliczka-mnozenia\obj\Debug\net10.0\zadanie2-Tabliczka-mnozenia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie2-Tabliczka-mnozenia\zadanie2-Tabliczka-mnozenia\obj\Debug\net10.0\zadanie2-Tabliczka-mnozenia.AssemblyInfoInputs.cache
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie2-Tabliczka-mnozenia\zadanie2-Tabliczka-mnozenia\obj\Debug\net10.0\zadanie2-Tabliczka-mnozenia.AssemblyInfo.cs
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie2-Tabliczka-mnozenia\zadanie2-Tabliczka-mnozenia\obj\Debug\net10.0\zadanie2-Tabliczka-mnozenia.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie2-Tabliczka-mnozenia\zadanie2-Tabliczka-mnozenia\obj\Debug\net10.0\zadanie2-Tabliczka-mnozenia.sourcelink.json
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie2-Tabliczka-mnozenia\zadanie2-Tabliczka-mnozenia\bin\Debug\net10.0\zadanie2-Tabliczka-mnozenia.exe
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie2-Tabliczka-mnozenia\zadanie2-Tabliczka-mnozenia\bin\Debug\net10.0\zadanie2-Tabliczka-mnozenia.deps.json
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie2-Tabliczka-mnozenia\zadanie2-Tabliczka-mnozenia\bin\Debug\net10.0\zadanie2-Tabliczka-mnozenia.runtimeconfig.json
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie2-Tabliczka-mnozenia\zadanie2-Tabliczka-mnozenia\bin\Debug\net10.0\zadanie2-Tabliczka-mnozenia.dll
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie2-Tabliczka-mnozenia\zadanie2-Tabliczka-mnozenia\bin\Debug\net10.0\zadanie2-Tabliczka-mnozenia.pdb
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie2-Tabliczka-mnozenia\zadanie2-Tabliczka-mnozenia\obj\Debug\net10.0\zadanie2-Tabliczka-mnozenia.dll
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie2-Tabliczka-mnozenia\zadanie2-Tabliczka-mnozenia\obj\Debug\net10.0\refint\zadanie2-Tabliczka-mnozenia.dll
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie2-Tabliczka-mnozenia\zadanie2-Tabliczka-mnozenia\obj\Debug\net10.0\zadanie2-Tabliczka-mnozenia.pdb
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie2-Tabliczka-mnozenia\zadanie2-Tabliczka-mnozenia\obj\Debug\net10.0\zadanie2-Tabliczka-mnozenia.genruntimeconfig.cache
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie2-Tabliczka-mnozenia\zadanie2-Tabliczka-mnozenia\obj\Debug\net10.0\ref\zadanie2-Tabliczka-mnozenia.dll
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie2-Tabliczka-mnozenia\zadanie2-Tabliczka-mnozenia\obj\Debug\net10.0\zadanie2.9060BFE0.Up2Date

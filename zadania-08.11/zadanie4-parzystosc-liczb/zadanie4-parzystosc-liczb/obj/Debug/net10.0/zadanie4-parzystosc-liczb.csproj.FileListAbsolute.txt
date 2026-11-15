@@ -1,0 +1,16 @@
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie4-parzystosc-liczb\zadanie4-parzystosc-liczb\bin\Debug\net10.0\zadanie4-parzystosc-liczb.exe
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie4-parzystosc-liczb\zadanie4-parzystosc-liczb\bin\Debug\net10.0\zadanie4-parzystosc-liczb.deps.json
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie4-parzystosc-liczb\zadanie4-parzystosc-liczb\bin\Debug\net10.0\zadanie4-parzystosc-liczb.runtimeconfig.json
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie4-parzystosc-liczb\zadanie4-parzystosc-liczb\bin\Debug\net10.0\zadanie4-parzystosc-liczb.dll
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie4-parzystosc-liczb\zadanie4-parzystosc-liczb\bin\Debug\net10.0\zadanie4-parzystosc-liczb.pdb
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie4-parzystosc-liczb\zadanie4-parzystosc-liczb\obj\Debug\net10.0\zadanie4-parzystosc-liczb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie4-parzystosc-liczb\zadanie4-parzystosc-liczb\obj\Debug\net10.0\zadanie4-parzystosc-liczb.AssemblyInfoInputs.cache
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie4-parzystosc-liczb\zadanie4-parzystosc-liczb\obj\Debug\net10.0\zadanie4-parzystosc-liczb.AssemblyInfo.cs
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie4-parzystosc-liczb\zadanie4-parzystosc-liczb\obj\Debug\net10.0\zadanie4-parzystosc-liczb.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie4-parzystosc-liczb\zadanie4-parzystosc-liczb\obj\Debug\net10.0\zadanie4-parzystosc-liczb.sourcelink.json
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie4-parzystosc-liczb\zadanie4-parzystosc-liczb\obj\Debug\net10.0\zadanie4-parzystosc-liczb.dll
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie4-parzystosc-liczb\zadanie4-parzystosc-liczb\obj\Debug\net10.0\refint\zadanie4-parzystosc-liczb.dll
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie4-parzystosc-liczb\zadanie4-parzystosc-liczb\obj\Debug\net10.0\zadanie4-parzystosc-liczb.pdb
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie4-parzystosc-liczb\zadanie4-parzystosc-liczb\obj\Debug\net10.0\zadanie4-parzystosc-liczb.genruntimeconfig.cache
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie4-parzystosc-liczb\zadanie4-parzystosc-liczb\obj\Debug\net10.0\ref\zadanie4-parzystosc-liczb.dll
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie4-parzystosc-liczb\zadanie4-parzystosc-liczb\obj\Debug\net10.0\zadanie4.8DBAF5DF.Up2Date

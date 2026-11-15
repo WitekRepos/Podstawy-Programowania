@@ -1,0 +1,16 @@
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie6-sprawdzanie-liczb-pierwszych\zadanie6-sprawdzanie-liczb-pierwszych\bin\Debug\net10.0\zadanie6-sprawdzanie-liczb-pierwszych.exe
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie6-sprawdzanie-liczb-pierwszych\zadanie6-sprawdzanie-liczb-pierwszych\bin\Debug\net10.0\zadanie6-sprawdzanie-liczb-pierwszych.deps.json
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie6-sprawdzanie-liczb-pierwszych\zadanie6-sprawdzanie-liczb-pierwszych\bin\Debug\net10.0\zadanie6-sprawdzanie-liczb-pierwszych.runtimeconfig.json
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie6-sprawdzanie-liczb-pierwszych\zadanie6-sprawdzanie-liczb-pierwszych\bin\Debug\net10.0\zadanie6-sprawdzanie-liczb-pierwszych.dll
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie6-sprawdzanie-liczb-pierwszych\zadanie6-sprawdzanie-liczb-pierwszych\bin\Debug\net10.0\zadanie6-sprawdzanie-liczb-pierwszych.pdb
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie6-sprawdzanie-liczb-pierwszych\zadanie6-sprawdzanie-liczb-pierwszych\obj\Debug\net10.0\zadanie6-sprawdzanie-liczb-pierwszych.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie6-sprawdzanie-liczb-pierwszych\zadanie6-sprawdzanie-liczb-pierwszych\obj\Debug\net10.0\zadanie6-sprawdzanie-liczb-pierwszych.AssemblyInfoInputs.cache
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie6-sprawdzanie-liczb-pierwszych\zadanie6-sprawdzanie-liczb-pierwszych\obj\Debug\net10.0\zadanie6-sprawdzanie-liczb-pierwszych.AssemblyInfo.cs
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie6-sprawdzanie-liczb-pierwszych\zadanie6-sprawdzanie-liczb-pierwszych\obj\Debug\net10.0\zadanie6-sprawdzanie-liczb-pierwszych.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie6-sprawdzanie-liczb-pierwszych\zadanie6-sprawdzanie-liczb-pierwszych\obj\Debug\net10.0\zadanie6-sprawdzanie-liczb-pierwszych.sourcelink.json
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie6-sprawdzanie-liczb-pierwszych\zadanie6-sprawdzanie-liczb-pierwszych\obj\Debug\net10.0\zadanie6-sprawdzanie-liczb-pierwszych.dll
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie6-sprawdzanie-liczb-pierwszych\zadanie6-sprawdzanie-liczb-pierwszych\obj\Debug\net10.0\refint\zadanie6-sprawdzanie-liczb-pierwszych.dll
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie6-sprawdzanie-liczb-pierwszych\zadanie6-sprawdzanie-liczb-pierwszych\obj\Debug\net10.0\zadanie6-sprawdzanie-liczb-pierwszych.pdb
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie6-sprawdzanie-liczb-pierwszych\zadanie6-sprawdzanie-liczb-pierwszych\obj\Debug\net10.0\zadanie6-sprawdzanie-liczb-pierwszych.genruntimeconfig.cache
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie6-sprawdzanie-liczb-pierwszych\zadanie6-sprawdzanie-liczb-pierwszych\obj\Debug\net10.0\ref\zadanie6-sprawdzanie-liczb-pierwszych.dll
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie6-sprawdzanie-liczb-pierwszych\zadanie6-sprawdzanie-liczb-pierwszych\obj\Debug\net10.0\zadanie6.533F82FF.Up2Date

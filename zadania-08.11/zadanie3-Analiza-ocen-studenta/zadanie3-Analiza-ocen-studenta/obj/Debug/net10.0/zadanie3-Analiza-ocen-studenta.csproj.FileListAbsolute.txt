@@ -1,0 +1,16 @@
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie3-Analiza-ocen-studenta\zadanie3-Analiza-ocen-studenta\obj\Debug\net10.0\zadanie3-Analiza-ocen-studenta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie3-Analiza-ocen-studenta\zadanie3-Analiza-ocen-studenta\obj\Debug\net10.0\zadanie3-Analiza-ocen-studenta.AssemblyInfoInputs.cache
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie3-Analiza-ocen-studenta\zadanie3-Analiza-ocen-studenta\obj\Debug\net10.0\zadanie3-Analiza-ocen-studenta.AssemblyInfo.cs
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie3-Analiza-ocen-studenta\zadanie3-Analiza-ocen-studenta\obj\Debug\net10.0\zadanie3-Analiza-ocen-studenta.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie3-Analiza-ocen-studenta\zadanie3-Analiza-ocen-studenta\obj\Debug\net10.0\zadanie3-Analiza-ocen-studenta.sourcelink.json
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie3-Analiza-ocen-studenta\zadanie3-Analiza-ocen-studenta\bin\Debug\net10.0\zadanie3-Analiza-ocen-studenta.exe
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie3-Analiza-ocen-studenta\zadanie3-Analiza-ocen-studenta\bin\Debug\net10.0\zadanie3-Analiza-ocen-studenta.deps.json
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie3-Analiza-ocen-studenta\zadanie3-Analiza-ocen-studenta\bin\Debug\net10.0\zadanie3-Analiza-ocen-studenta.runtimeconfig.json
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie3-Analiza-ocen-studenta\zadanie3-Analiza-ocen-studenta\bin\Debug\net10.0\zadanie3-Analiza-ocen-studenta.dll
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie3-Analiza-ocen-studenta\zadanie3-Analiza-ocen-studenta\bin\Debug\net10.0\zadanie3-Analiza-ocen-studenta.pdb
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie3-Analiza-ocen-studenta\zadanie3-Analiza-ocen-studenta\obj\Debug\net10.0\zadanie3-Analiza-ocen-studenta.dll
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie3-Analiza-ocen-studenta\zadanie3-Analiza-ocen-studenta\obj\Debug\net10.0\refint\zadanie3-Analiza-ocen-studenta.dll
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie3-Analiza-ocen-studenta\zadanie3-Analiza-ocen-studenta\obj\Debug\net10.0\zadanie3-Analiza-ocen-studenta.pdb
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie3-Analiza-ocen-studenta\zadanie3-Analiza-ocen-studenta\obj\Debug\net10.0\zadanie3-Analiza-ocen-studenta.genruntimeconfig.cache
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie3-Analiza-ocen-studenta\zadanie3-Analiza-ocen-studenta\obj\Debug\net10.0\ref\zadanie3-Analiza-ocen-studenta.dll
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie3-Analiza-ocen-studenta\zadanie3-Analiza-ocen-studenta\obj\Debug\net10.0\zadanie3.2D3C1C3F.Up2Date

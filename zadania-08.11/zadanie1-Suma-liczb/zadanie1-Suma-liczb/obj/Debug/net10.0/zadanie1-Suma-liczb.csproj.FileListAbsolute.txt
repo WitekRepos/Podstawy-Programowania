@@ -1,0 +1,16 @@
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadanie1-Suma-liczb\zadanie1-Suma-liczb\obj\Debug\net10.0\zadanie1-Suma-liczb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadanie1-Suma-liczb\zadanie1-Suma-liczb\obj\Debug\net10.0\zadanie1-Suma-liczb.AssemblyInfoInputs.cache
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadanie1-Suma-liczb\zadanie1-Suma-liczb\obj\Debug\net10.0\zadanie1-Suma-liczb.AssemblyInfo.cs
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadanie1-Suma-liczb\zadanie1-Suma-liczb\obj\Debug\net10.0\zadanie1-Suma-liczb.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadanie1-Suma-liczb\zadanie1-Suma-liczb\obj\Debug\net10.0\zadanie1-Suma-liczb.sourcelink.json
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadanie1-Suma-liczb\zadanie1-Suma-liczb\bin\Debug\net10.0\zadanie1-Suma-liczb.exe
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadanie1-Suma-liczb\zadanie1-Suma-liczb\bin\Debug\net10.0\zadanie1-Suma-liczb.deps.json
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadanie1-Suma-liczb\zadanie1-Suma-liczb\bin\Debug\net10.0\zadanie1-Suma-liczb.runtimeconfig.json
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadanie1-Suma-liczb\zadanie1-Suma-liczb\bin\Debug\net10.0\zadanie1-Suma-liczb.dll
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadanie1-Suma-liczb\zadanie1-Suma-liczb\bin\Debug\net10.0\zadanie1-Suma-liczb.pdb
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadanie1-Suma-liczb\zadanie1-Suma-liczb\obj\Debug\net10.0\zadanie1-Suma-liczb.dll
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadanie1-Suma-liczb\zadanie1-Suma-liczb\obj\Debug\net10.0\refint\zadanie1-Suma-liczb.dll
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadanie1-Suma-liczb\zadanie1-Suma-liczb\obj\Debug\net10.0\zadanie1-Suma-liczb.pdb
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadanie1-Suma-liczb\zadanie1-Suma-liczb\obj\Debug\net10.0\zadanie1-Suma-liczb.genruntimeconfig.cache
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadanie1-Suma-liczb\zadanie1-Suma-liczb\obj\Debug\net10.0\ref\zadanie1-Suma-liczb.dll
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadanie1-Suma-liczb\zadanie1-Suma-liczb\obj\Debug\net10.0\zadanie1.1341393A.Up2Date

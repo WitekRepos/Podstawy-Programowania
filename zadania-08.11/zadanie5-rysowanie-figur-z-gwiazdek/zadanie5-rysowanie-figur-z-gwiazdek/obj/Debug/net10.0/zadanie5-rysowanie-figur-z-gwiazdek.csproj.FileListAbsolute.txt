@@ -1,0 +1,16 @@
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie5-rysowanie-figur-z-gwiazdek\zadanie5-rysowanie-figur-z-gwiazdek\bin\Debug\net10.0\zadanie5-rysowanie-figur-z-gwiazdek.exe
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie5-rysowanie-figur-z-gwiazdek\zadanie5-rysowanie-figur-z-gwiazdek\bin\Debug\net10.0\zadanie5-rysowanie-figur-z-gwiazdek.deps.json
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie5-rysowanie-figur-z-gwiazdek\zadanie5-rysowanie-figur-z-gwiazdek\bin\Debug\net10.0\zadanie5-rysowanie-figur-z-gwiazdek.runtimeconfig.json
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie5-rysowanie-figur-z-gwiazdek\zadanie5-rysowanie-figur-z-gwiazdek\bin\Debug\net10.0\zadanie5-rysowanie-figur-z-gwiazdek.dll
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie5-rysowanie-figur-z-gwiazdek\zadanie5-rysowanie-figur-z-gwiazdek\bin\Debug\net10.0\zadanie5-rysowanie-figur-z-gwiazdek.pdb
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie5-rysowanie-figur-z-gwiazdek\zadanie5-rysowanie-figur-z-gwiazdek\obj\Debug\net10.0\zadanie5-rysowanie-figur-z-gwiazdek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie5-rysowanie-figur-z-gwiazdek\zadanie5-rysowanie-figur-z-gwiazdek\obj\Debug\net10.0\zadanie5-rysowanie-figur-z-gwiazdek.AssemblyInfoInputs.cache
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie5-rysowanie-figur-z-gwiazdek\zadanie5-rysowanie-figur-z-gwiazdek\obj\Debug\net10.0\zadanie5-rysowanie-figur-z-gwiazdek.AssemblyInfo.cs
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie5-rysowanie-figur-z-gwiazdek\zadanie5-rysowanie-figur-z-gwiazdek\obj\Debug\net10.0\zadanie5-rysowanie-figur-z-gwiazdek.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie5-rysowanie-figur-z-gwiazdek\zadanie5-rysowanie-figur-z-gwiazdek\obj\Debug\net10.0\zadanie5-rysowanie-figur-z-gwiazdek.sourcelink.json
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie5-rysowanie-figur-z-gwiazdek\zadanie5-rysowanie-figur-z-gwiazdek\obj\Debug\net10.0\zadanie5-rysowanie-figur-z-gwiazdek.dll
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie5-rysowanie-figur-z-gwiazdek\zadanie5-rysowanie-figur-z-gwiazdek\obj\Debug\net10.0\refint\zadanie5-rysowanie-figur-z-gwiazdek.dll
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie5-rysowanie-figur-z-gwiazdek\zadanie5-rysowanie-figur-z-gwiazdek\obj\Debug\net10.0\zadanie5-rysowanie-figur-z-gwiazdek.pdb
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie5-rysowanie-figur-z-gwiazdek\zadanie5-rysowanie-figur-z-gwiazdek\obj\Debug\net10.0\zadanie5-rysowanie-figur-z-gwiazdek.genruntimeconfig.cache
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie5-rysowanie-figur-z-gwiazdek\zadanie5-rysowanie-figur-z-gwiazdek\obj\Debug\net10.0\ref\zadanie5-rysowanie-figur-z-gwiazdek.dll
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadania-08.11\zadanie5-rysowanie-figur-z-gwiazdek\zadanie5-rysowanie-figur-z-gwiazdek\obj\Debug\net10.0\zadanie5.9E06CBA8.Up2Date
