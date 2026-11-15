@@ -1,7 +1,0 @@
-Z:\Zadanie\zadanie s37602\zadanie s37602\obj\Release\zadanie s37602.csproj.AssemblyReference.cache
-Z:\Zadanie\zadanie s37602\zadanie s37602\obj\Release\zadanie s37602.csproj.CoreCompileInputs.cache
-Z:\Zadanie\zadanie s37602\zadanie s37602\bin\Release\zadanie s37602.exe.config
-Z:\Zadanie\zadanie s37602\zadanie s37602\bin\Release\zadanie s37602.exe
-Z:\Zadanie\zadanie s37602\zadanie s37602\bin\Release\zadanie s37602.pdb
-Z:\Zadanie\zadanie s37602\zadanie s37602\obj\Release\zadanie s37602.exe
-Z:\Zadanie\zadanie s37602\zadanie s37602\obj\Release\zadanie s37602.pdb
