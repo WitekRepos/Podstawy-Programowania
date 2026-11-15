@@ -1,0 +1,16 @@
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadanie-zgadywanie-04.10\zadanie-zgadywanie-04.10\bin\Debug\net10.0\zadanie-zgadywanie-04.10.exe
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadanie-zgadywanie-04.10\zadanie-zgadywanie-04.10\bin\Debug\net10.0\zadanie-zgadywanie-04.10.deps.json
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadanie-zgadywanie-04.10\zadanie-zgadywanie-04.10\bin\Debug\net10.0\zadanie-zgadywanie-04.10.runtimeconfig.json
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadanie-zgadywanie-04.10\zadanie-zgadywanie-04.10\bin\Debug\net10.0\zadanie-zgadywanie-04.10.dll
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadanie-zgadywanie-04.10\zadanie-zgadywanie-04.10\bin\Debug\net10.0\zadanie-zgadywanie-04.10.pdb
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadanie-zgadywanie-04.10\zadanie-zgadywanie-04.10\obj\Debug\net10.0\zadanie-zgadywanie-04.10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadanie-zgadywanie-04.10\zadanie-zgadywanie-04.10\obj\Debug\net10.0\zadanie-zgadywanie-04.10.AssemblyInfoInputs.cache
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadanie-zgadywanie-04.10\zadanie-zgadywanie-04.10\obj\Debug\net10.0\zadanie-zgadywanie-04.10.AssemblyInfo.cs
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadanie-zgadywanie-04.10\zadanie-zgadywanie-04.10\obj\Debug\net10.0\zadanie-zgadywanie-04.10.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadanie-zgadywanie-04.10\zadanie-zgadywanie-04.10\obj\Debug\net10.0\zadanie-zgadywanie-04.10.sourcelink.json
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadanie-zgadywanie-04.10\zadanie-zgadywanie-04.10\obj\Debug\net10.0\zadanie-zgadywanie-04.10.dll
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadanie-zgadywanie-04.10\zadanie-zgadywanie-04.10\obj\Debug\net10.0\refint\zadanie-zgadywanie-04.10.dll
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadanie-zgadywanie-04.10\zadanie-zgadywanie-04.10\obj\Debug\net10.0\zadanie-zgadywanie-04.10.pdb
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadanie-zgadywanie-04.10\zadanie-zgadywanie-04.10\obj\Debug\net10.0\zadanie-zgadywanie-04.10.genruntimeconfig.cache
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadanie-zgadywanie-04.10\zadanie-zgadywanie-04.10\obj\Debug\net10.0\ref\zadanie-zgadywanie-04.10.dll
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadanie-zgadywanie-04.10\zadanie-zgadywanie-04.10\obj\Debug\net10.0\zadanie-.82B65CDE.Up2Date
