@@ -1,0 +1,14 @@
+Z:\Zadanie\zadanie s37602\zadanie s37602\obj\Release\zadanie s37602.csproj.AssemblyReference.cache
+Z:\Zadanie\zadanie s37602\zadanie s37602\obj\Release\zadanie s37602.csproj.CoreCompileInputs.cache
+Z:\Zadanie\zadanie s37602\zadanie s37602\bin\Release\zadanie s37602.exe.config
+Z:\Zadanie\zadanie s37602\zadanie s37602\bin\Release\zadanie s37602.exe
+Z:\Zadanie\zadanie s37602\zadanie s37602\bin\Release\zadanie s37602.pdb
+Z:\Zadanie\zadanie s37602\zadanie s37602\obj\Release\zadanie s37602.exe
+Z:\Zadanie\zadanie s37602\zadanie s37602\obj\Release\zadanie s37602.pdb
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadanie_s37602\zadanie s37602\obj\Release\zadanie s37602.csproj.AssemblyReference.cache
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadanie_s37602\zadanie s37602\obj\Release\zadanie s37602.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadanie_s37602\zadanie s37602\obj\Release\zadanie s37602.exe
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadanie_s37602\zadanie s37602\obj\Release\zadanie s37602.pdb
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadanie_s37602\zadanie s37602\bin\Release\zadanie s37602.exe.config
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadanie_s37602\zadanie s37602\bin\Release\zadanie s37602.exe
+C:\Users\Jakub\Desktop\Podstawy-Programowania\zadanie_s37602\zadanie s37602\bin\Release\zadanie s37602.pdb
