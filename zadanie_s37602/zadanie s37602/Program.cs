@@ -28,7 +28,7 @@ namespace ConsoleApp1
             double srednia = (x / 3);
 
 
-            Console.WriteLine(username + $", twoja srednia ocen to:  + {srednia:F2}";
+            Console.WriteLine(username + ", twoja srednia ocen to: " + srednia.ToString("F2"));
 
             if (srednia >= 3)
             {
