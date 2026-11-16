@@ -1,2 +1,0 @@
-Z:\Zadanie\zadanie s37602\zadanie s37602\obj\Debug\zadanie s37602.csproj.AssemblyReference.cache
-Z:\Zadanie\zadanie s37602\zadanie s37602\obj\Debug\zadanie s37602.csproj.CoreCompileInputs.cache
